@@ -1,6 +1,6 @@
 """
 Data Preprocessing Pipeline
-Author: Repuri Manohar
+Author: sneha potluri
 Description:
 Performs data cleaning and preprocessing without model training.
 """
