@@ -1,0 +1,33 @@
+student_id,name,age,gender,math_score,science_score,attendance,exam_date
+1,Teresa,,Female,,,,
+2,Amber,20,Female,,70.0,65.0,
+3,Sherri,18,Female,150.0,70.0,65.0,March 5 2024
+4,Brittany,twenty,Male,150.0,,90.0,
+5,Daniel,18,Female,,999.0,72.0,2024-03-12
+6,Frederick,21,Female,,999.0,65.0,12-03-2024
+7,Eric,twenty,Male,55.0,999.0,80.0,2024-03-12
+8,Carolyn,,Female,88.0,999.0,,2024-03-12
+9,Frank,18,Female,150.0,60.0,,12-03-2024
+10,James,18,Male,55.0,95.0,,12-03-2024
+11,John,21,,72.0,70.0,,
+12,Luis,,Male,55.0,60.0,65.0,March 5 2024
+13,Angela,18,Male,91.0,999.0,72.0,12-03-2024
+14,Allison,21,Female,67.0,85.0,80.0,12-03-2024
+15,Donald,twenty,Female,88.0,999.0,,12-03-2024
+16,Kathleen,19,,67.0,95.0,72.0,12-03-2024
+17,Rebecca,twenty,Male,150.0,,,12-03-2024
+18,Sarah,21,,150.0,60.0,90.0,2024-03-12
+19,Jennifer,21,,88.0,95.0,90.0,March 5 2024
+20,John,,Male,,85.0,72.0,2024-03-12
+21,Amber,21,Female,67.0,,65.0,12-03-2024
+22,James,21,Male,67.0,,,2024-03-12
+23,Ronald,20,,67.0,999.0,65.0,March 5 2024
+24,Evan,18,,67.0,999.0,,2024-03-12
+25,Douglas,twenty,Female,91.0,85.0,80.0,
+26,Michael,twenty,,88.0,999.0,,
+27,Kimberly,21,Female,150.0,95.0,90.0,
+28,Brittany,18,Male,67.0,999.0,72.0,March 5 2024
+29,Elizabeth,,Female,91.0,70.0,65.0,
+30,Janice,19,Male,72.0,85.0,80.0,2024-03-12
+6,Frederick,21,Female,,999.0,65.0,12-03-2024
+11,John,21,,72.0,70.0,,
