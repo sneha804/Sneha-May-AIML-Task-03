@@ -64,5 +64,4 @@ Installation
 
 https://github.com/sneha804/Sneha-May-AIML-Task-03
 
-cd Data-Preprocessing
 
